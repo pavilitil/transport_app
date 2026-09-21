@@ -29,6 +29,7 @@
                ▲
                │ (реалізує)
 [ Infrastructure Layer (Data Sources) ]
+
 📁 Структура каталогів
 Plaintext
 lib/
@@ -57,16 +58,13 @@ lib/
 Кроки для запуску
 Клонуйте репозиторій:
 
-Bash
-git clone [https://github.com/ВАШ_НІКНЕЙМ/transport_app.git](https://github.com/ВАШ_НІКНЕЙМ/transport_app.git)
+git clone [https://github.com/pavilitil/transport_app.git](https://github.com/pavilitil/transport_app.git)
 cd transport_app
 Завантажте необхідні залежності:
 
-Bash
 flutter pub get
 Запустіть застосунок у Chrome:
 
-Bash
 flutter run -d chrome
 🛠️ Використані технології
 Мова розробки: Dart
